@@ -1,0 +1,62 @@
+.header-height{
+    height: 600px;
+    background-color: #FFFBF0;
+}
+
+.logo{
+    width: 300px;
+}
+.penguins-title{
+    color: #FABE4C;
+    font-size: 55px;
+    font-weight: 700;
+}
+.winter-color{
+    color: #363958;
+}
+.women-img{
+    width: 300px;
+}
+.card-body{
+    background-color: none;
+    box-sizing: initial;
+}
+.jacket{
+    width: 250px;
+    
+}
+.Jacket-Categories{
+    font-size: 35px;
+    color: #363958;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.price{
+    color: #f0a720;
+    font-weight: 700;
+}
+.icon-image{
+    width: 60px;
+    margin: 0px 15px;
+}
+.Shoping-section{
+    margin-top: 150px;
+}
+.icon-part{
+   padding: 0px;
+   margin-bottom: 40px;
+   border-radius: 15px;
+  
+   box-shadow: 05px 05px 15px ;
+}
+.shopping-cart{
+    margin:10px;
+}
+.footer-section{
+    background-color:#363958;
+    height: 250px;
+    color: white;
+
+
+   
+}
